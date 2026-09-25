@@ -1,3 +1,0 @@
- convert all array,number ,pattern logic in python form lb assighnents
- 
- implement filter , map , reduce
